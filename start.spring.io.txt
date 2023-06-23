@@ -1,0 +1,14 @@
+project Gradle - Groovy
+Spring Boot 2.7.12
+
+Group hello
+Arifact jdbc
+Name jdbc
+Package Name hello.jdbc
+
+Packing Jar
+Java 8
+
+JDBC API
+H2 Database
+Lombok
